@@ -1,0 +1,7 @@
+<macro name="shutter_test_write">
+  <write
+    service-uuid="2141e110-213a-11e6-b67b-9e71128cae77"
+    characteristic-uuid="2141e112-213a-11e6-b67b-9e71128cae77"
+    value="0203"
+    type="WRITE_COMMAND" />
+</macro>
